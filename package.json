@@ -1,0 +1,13 @@
+{
+    "name": "waydinesgov",
+    "version": "1.0.0",
+    "source": "Pages/index.html",
+    "license": "GPL-3.0-or-later",
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build"  
+    },
+    "devDependencies": {
+        "parcel": "^2.3.2"
+    }
+}
